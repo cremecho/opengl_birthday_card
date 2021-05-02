@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1824097_Wen_TianXi", "1824097_Wen_TianXi\1824097_Wen_TianXi.vcxproj", "{F9B2688B-F057-4C49-9A41-511FC59BBF22}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "birthday_card", "birthday_card\birthday_card.vcxproj", "{F9B2688B-F057-4C49-9A41-511FC59BBF22}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
