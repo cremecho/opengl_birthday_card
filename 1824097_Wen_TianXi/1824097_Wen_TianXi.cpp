@@ -1,6 +1,3 @@
-// Title: Assignment1: Birthday Card
-// Student Name: Tianxi Wen
-// Student ID: 1824097
 
 #define FREEGLUT_STATIC
 #include <math.h>
