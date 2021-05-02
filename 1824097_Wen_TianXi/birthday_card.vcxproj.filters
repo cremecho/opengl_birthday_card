@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="1824097_Wen_TianXi.cpp">
+    <ClCompile Include="birthday_card.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
